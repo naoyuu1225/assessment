@@ -1,0 +1,39 @@
+
+body{
+     background-color:palegoldenrod;
+    width:500px;
+}
+
+h1{
+    width:500px;
+    margin-left: 200px;
+    margin-right:auto;
+}
+
+h3{
+    width:500px;
+    margin-left:    250px;
+    margin-right:   auto;
+}
+
+.heiretu{
+    width : 1000px;
+    display:flex;
+}
+
+.box{
+    width:500px;
+    margin-left:    300px;
+    margin-right:   auto;
+}
+
+.box2{
+    width : 500px;
+    margin-left : 300px;
+    margin-right : auto;
+}
+
+.header{
+    color:blue;
+}
+
